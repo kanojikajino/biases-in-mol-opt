@@ -1,0 +1,9 @@
+gym>=0.17.3
+numpy>=1.19
+luigine
+torch
+graphillion
+gpytorch
+rdkit-pypi
+networkx
+pandas

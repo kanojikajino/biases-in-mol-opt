@@ -1,0 +1,3 @@
+Amid bond formation	[C:1](=[O:2])-[OD1].[N!H0:3]>>[C:1](=[O:2])[N:3]
+Bischler-Napieralski	[$(C([CH2,CH3])),CH:10](=[O:11])-[NH+0:9]-[C$(C(N)(C)(C)(C)),C$([CH](N)(C)(C)),C$([CH2](N)(C)):8]-[C$(C(c)(C)(C)(C)),C$([CH](c)(C)(C)),C$([CH2](c)(C)):7]-[c:6]1[cH:1][c:2][c:3][c:4][c:5]1>>[C:10]-1=[N+0:9]-[C:8]-[C:7]-[c:6]2[c:5][c:4][c:3][c:2][c:1]-12
+
